@@ -1,7 +1,7 @@
 //GPIO Pins
 const byte IR_IN = 36; //IR for detection
 const byte SW1 = 13; //Switch 1
-const byte SW2 = 9; //Switch 2
+const byte SW2 = 2; //Switch 2
 const uint8_t LED_1[] = {32, 33, 25, 26, 27, 14, 12};
 const uint8_t NUM0 = sizeof(LED_1) / sizeof(LED_1[0]);
 
